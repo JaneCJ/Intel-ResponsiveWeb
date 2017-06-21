@@ -1,1 +1,1 @@
-# Intel-responsive-web
+# Intel-ResponsiveWeb
